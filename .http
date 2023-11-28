@@ -1,0 +1,2 @@
+GET localhost:18083/greetings/all
+Content-Type: application/json
